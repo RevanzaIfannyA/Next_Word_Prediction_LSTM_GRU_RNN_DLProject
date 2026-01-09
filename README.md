@@ -147,7 +147,7 @@ model.compile(loss="categorical_crossentropy", optimizer='adam', metrics=['accur
 
 The model is deployed online via **Streamlit Community Cloud**:
 
-🔗 **Live App**: [https://nextwordpredictiongrurnndlproject.streamlit.app/](https://nextwordpredictiongrurnndlproject.streamlit.app/)
+🔗 **Live App**: [https://nextwordpredictiongrurnn-dlproject.streamlit.app/](https://nextwordpredictiongrurnn-dlproject.streamlit.app/)
 
 ### Features:
 - User-friendly text input
